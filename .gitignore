@@ -1,2 +1,6 @@
 *.png
 *.jpg
+
+.vs/
+obj/
+bin/

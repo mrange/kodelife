@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsPrependGitFiles", "FsPrependGitFiles\FsPrependGitFiles.fsproj", "{FC553C4E-C888-4E03-8D84-CB3BB5D3D20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC553C4E-C888-4E03-8D84-CB3BB5D3D20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC553C4E-C888-4E03-8D84-CB3BB5D3D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC553C4E-C888-4E03-8D84-CB3BB5D3D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC553C4E-C888-4E03-8D84-CB3BB5D3D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA3D42FA-239E-4D9E-8131-5343FB1188F2}
+	EndGlobalSection
+EndGlobal
